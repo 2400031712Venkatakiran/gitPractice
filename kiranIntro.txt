@@ -1,7 +1,6 @@
 Hi All, I am Tumma Venkata Kiran.
 I am studying B.Tech at KLU. My major is CSE.
 I am learning git and GitHub.
-<<<<<<< Updated upstream
 I am from Mangalagiri, Guntur, Andhra Pradesh, India.
 My mothers name is Rajya Lakshmi.
 
